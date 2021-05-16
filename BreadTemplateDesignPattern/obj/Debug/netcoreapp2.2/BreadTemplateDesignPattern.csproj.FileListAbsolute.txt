@@ -1,0 +1,10 @@
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\bin\Debug\netcoreapp2.2\BreadTemplateDesignPattern.deps.json
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\bin\Debug\netcoreapp2.2\BreadTemplateDesignPattern.runtimeconfig.json
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\bin\Debug\netcoreapp2.2\BreadTemplateDesignPattern.runtimeconfig.dev.json
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\bin\Debug\netcoreapp2.2\BreadTemplateDesignPattern.dll
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\bin\Debug\netcoreapp2.2\BreadTemplateDesignPattern.pdb
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\obj\Debug\netcoreapp2.2\BreadTemplateDesignPattern.csprojAssemblyReference.cache
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\obj\Debug\netcoreapp2.2\BreadTemplateDesignPattern.AssemblyInfoInputs.cache
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\obj\Debug\netcoreapp2.2\BreadTemplateDesignPattern.AssemblyInfo.cs
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\obj\Debug\netcoreapp2.2\BreadTemplateDesignPattern.dll
+C:\Users\ahemaid\source\repos\TemplateDesignPattern\BreadTemplateDesignPattern\obj\Debug\netcoreapp2.2\BreadTemplateDesignPattern.pdb
